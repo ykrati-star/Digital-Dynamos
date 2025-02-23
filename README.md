@@ -50,7 +50,7 @@ The app follows a **modular structure**:
 | **Frontend**    | React Native (Expo) |
 | **Backend**     | Firebase Firestore |
 | **Authentication** | Firebase Auth |
-| **Database**    | Firestore (NoSQL) |
+| **Database**    | Firestore |
 | **Storage**     | Firebase Storage |
 | **Chat System** | React Native Gifted Chat |
 | **Navigation**  | React Navigation |
