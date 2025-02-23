@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iit-mandi-campus-marketplace",
+  "private_key_id": "f47264f298ddedbbc1677cde6425fe33c18630f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxYtNT8jcQS1jG\nyTw2XK6YXYIBLr4zTL/9awhzgBJdU3H/37YBXMmhN1QP9xYiit2zs1SLm/5w6N/y\nmQDQtitmr18WnYaIXzz/hyJkeGZlVGLMyut68hcnD2V+TC8Xgi4CByFAJK0Spe/I\nIb0ylVzeA+qr9w9NUGkHmRk0NTxGi33v3hJDoa0dZWHbmXeRcmPUcWMqCQhYX1RZ\nFtgK/9KTfRVO5/Eqh8V5WKWkuE9ZV/4AnnsPlCEXrgJRcZ9gOseKFgB3wxb4MYT5\nz6begI4CUl6NzWtdSNkyb1ZtVDjskQlv8hlGYqHa4wOgswFtQ2PN9UDe1GlPpATo\nKYcjJ8ARAgMBAAECggEAXM+pPrE2b8rwtvof7y0Cqq3lcyv0UMg1V6yEQtie9whD\nIGV1Vx/EnPqnlT3lYmGvbc1JeCaCFgrMNLyUnis1E9XhQ1JNLHkl/IAKfsP2Zwaj\nuGdbVFnqAgg+92k2gBz7MKdqJv4TF8T6paInW2AnpWuvGvCzDwCYaaX5lWPUqbBw\nhT14RJDoYzfedVh6w0LhC10mC6ngxV15XQ4lJyruwOtumWTE6utke8t8Vxn8rsdy\n51R+5l6WCwy9S8HnHeuYBE7Mg/aOZoqlZ0pt+YeUgpWvKXbRoQoQ828nv27KpWS9\nClqQwh4KUyAEyh4K7zeUn1WPEB9bQuBN2em5/ZhKcwKBgQD+S4RUlL6UqCiSX8g5\nH0YNv6ClQWzkxYmcX20MIC2kadtxaJUJ09ll7+l0RkI6t8rTpvZiFtJXDfpmFEh+\nUSyaJH+FFVZaDK9pMvNM9RhG1bW9wuwGk5+QP3tfDCsh/c0IqBRSveCa0+HzPjFM\nX1J7hmS6L1Xz4o7l4Tgh1z+RSwKBgQDzASauF+HM+lewtsR832ZbsmuXYZpxaXQQ\nlvmz4yPCtXZtZD1vD3DUNGqQW55PBOXyLSozYykyZ0LZLLSiIT+kzjnLifltAr3+\nRlTk5FEjxbs5ush+An2YRzfwylHC/UJUeO6qDgTUWIjPDxMobSJEokPny/iuh4Q0\nxV5la5S2kwKBgARCq6LnIxJGhvd811PtrDTKwxxBrlte2+Fcz+zmFR2uEFkkEWsq\nu3ezv0uNacqmDaXiJDqce0WuHEXdjSFgpsimV+SY6Ot1TvMKQX1GlfOJ3ROi0mWB\nz6iRB7Yd9BMLt4WvmzePqtWtOxniLt1Cs5USOVnNNTly0EYVseUPQCdlAoGBAM1o\nCq8cJtTiQ99vDnXTTK10CrgiW69ECUTAqX+iHydFxj4/fiJztdbaG728g/udU1W7\nUbGwPzGI0ZvLy0BExIxlebsP/NNlfv4Bq17zk5aeXF03AqRpLIrcoG+cRTKCa2AF\n/Q+n2/M2hyYnQvVoEpBbbPTxmFrG2DzXHKy0HDebAoGBAMedflltkAEz9MzpbK4Z\nZIbpAj9zBBsZrADNNaZ0rJAPQtcyPm5ICHWgGEKVQfXzQPNHlnet2dKVNtXRsr4s\ngt+IZz+YV5f448+EwwjGDQJuDtpEllsOaitSxqptA69bxq6QKd/ufy67XDoQ3665\nGpUEzM9u2ChVppnrbUiV5nQ1\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@iit-mandi-campus-marketplace.iam.gserviceaccount.com",
+  "client_id": "108502284193994289675",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40iit-mandi-campus-marketplace.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
